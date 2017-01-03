@@ -1,0 +1,32 @@
+<body style="
+    padding-top: 30px;
+">
+    <!-- <h1>Hello, world!</h1> -->
+    <!-- <input type="button" value="Next" class="btn btn-primary btn-xs" </input>  -->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+
+      <div class="container-fluid">
+      <div>
+      &lt;
+      <ul class="nav navbar-nav">
+       <li class="active"><a href="www.google.com">Home</a></li>
+       <li><a href="#">About</a></li>
+       <li><a href="#">Contacts</a></li></ul>
+    
+    </div></div></nav>
+        <div class="container">
+          <div>
+           <h1>   Prao's Blog  </h1> 
+           <p> Seshu   </p>
+
+
+
+      </div>
+    
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="assets/js/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  
+</div></body>
